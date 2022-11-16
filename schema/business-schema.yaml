@@ -61,7 +61,7 @@ Getting Started:
     To get started, please submit your PDU, your use case, your estimated monthly usage. We aim to grant access within 48 hours. Please contact INSERT if you have any questions (links to support section below).
 Support:
   <<: *field_properties
-  required: false
+  required: false changes
   default_value: |
     EXAMPLE ONLY:
     If you have any questions, please contact INSERT on EMAIL / SLACK. We can help with INSERT. If you have a general enquiry, contact INSERT instead.
